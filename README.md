@@ -6,12 +6,19 @@ This repository contains hands-on labs focused on Microsoft cloud security, iden
 
 | Project | Focus |
 |---|---|
-| Entra ID Identity Security Lab | Users, groups, MFA, Conditional Access, audit logs |
+| [Entra ID Identity Security Lab](entra-id-identity-security-lab/) | Users, groups, MFA, Conditional Access, audit logs |
+| [Microsoft Defender for Cloud Security Posture Lab](defender-for-cloud-security-posture-lab/) | Defender for Cloud setup, secure score review, recommendations, regulatory compliance, cloud security posture |
+| [Microsoft Sentinel SOC Monitoring Lab](sentinel-soc-monitoring-lab/) | Sentinel SIEM setup, Azure Activity logs, Entra sign-in/audit logs, KQL validation, analytics rules, alerts/incidents, workbook dashboard |
 
 ## Skills Practiced
 
 - Microsoft Entra ID administration
-- Conditional Access and MFA
 - Identity and access management
+- Conditional Access and MFA
+- Microsoft Defender for Cloud
+- Cloud security posture management
+- Microsoft Sentinel SIEM
+- KQL log analysis
+- Security alert and incident investigation
 - Cloud security monitoring
-- Audit and sign-in log analysis
+- Workbook/dashboard creation
