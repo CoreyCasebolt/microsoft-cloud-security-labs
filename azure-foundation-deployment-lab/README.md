@@ -177,3 +177,5 @@ In a business environment, administrators commonly need to:
 - Document cloud infrastructure for operational visibility and future troubleshooting
 
 This lab provides a foundation for future Azure projects involving monitoring, identity and access control, private endpoints, Azure Policy, Microsoft Defender for Cloud, and infrastructure automation.
+
+`The VM was stopped/deallocated after completing the lab to reduce ongoing compute costs. The resource group was kept temporarily so the environment can be reused or expanded in future Azure labs.`
