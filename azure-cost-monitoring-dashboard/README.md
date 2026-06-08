@@ -1,4 +1,4 @@
-# Azure Cost Monitoring Dashboard
+# Azure Cost Monitoring Dashboard Lab
 
 ## Summary
 
